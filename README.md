@@ -1,5 +1,6 @@
 # OodleSharp
 OodleSharp is a .NET library that can Compress and Decompress Oodle files.
+
 It is a wrapper that functions on top of a 64-bit Oodle 2.3.0 DLL file.
 
 ## Supported Formats:
